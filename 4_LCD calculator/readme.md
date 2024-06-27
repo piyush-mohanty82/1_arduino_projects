@@ -12,6 +12,8 @@ Jumper wires.
 
 potentimeter.
 
+resistor(1k ohm).
+
 # Circuit Diagram
 Connect the LCD display to the Arduino as follows:
 
