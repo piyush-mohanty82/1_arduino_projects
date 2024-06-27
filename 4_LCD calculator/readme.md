@@ -10,6 +10,8 @@ Arduino board (e.g., Arduino Uno).
 
 Jumper wires.
 
+potentimeter.
+
 # Circuit Diagram
 Connect the LCD display to the Arduino as follows:
 
