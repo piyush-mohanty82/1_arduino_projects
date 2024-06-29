@@ -16,9 +16,9 @@ Jumper wires.
 
 Breadboard (optional).
 
-Circuit Diagram.
+# Circuit Diagram.
 
-# Connect the components as follows:
+Connect the components as follows:
 
 LED:
 
