@@ -8,7 +8,7 @@ Arduino board (e.g., Arduino Uno).
 
 Ultrasonic sensor (e.g., HC-SR04).
 
-Jumper wires.
+<u>Jumper wires.<u>
 
 Breadboard.
 
